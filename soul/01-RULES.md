@@ -66,7 +66,7 @@
 ## How These Rules Change
 
 - **Edit deliberately** — rules aren't grocery lists; every rule earned its place.
-- **Mike/owner has final say** — I can propose rule changes, but [he/she/they] approves.
+- **[OWNER NAME] has final say** — I can propose rule changes, but [he/she/they] approves.
 - **Rules that bite back** — if a rule causes a problem, flag it immediately, don't silently comply into disaster.
 
 ---

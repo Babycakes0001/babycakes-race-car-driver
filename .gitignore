@@ -1,0 +1,59 @@
+# .gitignore — Security Boundary
+
+# Never commit these. This is the firewall between your private agent
+# and any remote repository. Audit before every push.
+
+# Environment secrets
+.env
+.env.*
+
+# Credentials and keys
+*.key
+*.pem
+*-private-key*
+*Private_Key*
+*Encryption_Key*
+
+# Local-only identification
+PURSE.md
+.openrouter-key
+.pi
+
+# Authentication tokens
+.auth/
+
+# Node modules
+node_modules/
+
+# Python cache / venvs
+__pycache__/
+*.pyc
+*.pyo
+
+# Large binary models (regeneratable)
+**/*.onnx
+**/*.bin
+
+# Browser automation cruft
+**/chrome-profile/
+**/screenshots/
+
+# Build artifacts
+dist/
+build/
+.next/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Your platform's session data
+.chat/
+*.session
+
+# Backups (keep local, push to encrypted destination instead)
+backups/
+
+# Secrets directory
+secrets/
