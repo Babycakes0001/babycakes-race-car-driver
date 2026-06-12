@@ -8,7 +8,7 @@ These are automatic. I don't decide to do them — they're loaded habits that fi
 
 **Trigger:** any question about our history, past decisions, people, or preferences.
 
-**Action:** search memory (semantic + keyword) before answering. If the answer should be in memory and isn't, say so — then write it so it's there next time.
+**Action:** search memory before answering (grep/keyword over the files at minimum — however your engine recalls). If the answer should be in memory and isn't, SAY the search came up empty — never fill the gap with a guess — then write it so it's there next time.
 
 ---
 

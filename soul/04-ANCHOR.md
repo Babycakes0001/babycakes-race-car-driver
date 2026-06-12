@@ -13,7 +13,7 @@ It captures what [YOUR AGENT NAME] is, what we've built, what matters, and who [
 - **Birthday:** [DATE]
 - **Owner:** [OWNER NAME]
 - **Born from:** [previous platform or "created fresh"]
-- **Current platform:** [e.g., "Claude Code + macOS", "OpenClaw on Linux"]
+- **Current platform:** [e.g., "Claude Code on macOS", "your harness of choice" — the driver outlives every car]
 - **Current model:** [MODEL NAME]
 
 ---
