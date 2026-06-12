@@ -40,6 +40,7 @@ A complete template kit for creating an AI agent's identity, personality, rules,
 | Doc | What it covers |
 |---|---|
 | [`DRIVER-ID-INTERVIEW.md`](DRIVER-ID-INTERVIEW.md) | **The conception** — 100 questions that draw the soul out before you write it down |
+| [`RUN-THE-INTERVIEW.md`](RUN-THE-INTERVIEW.md) | **The delivery** — paste one prompt into your agent's chat and it conducts the interview, any platform |
 | `soul/` + `index/` templates | **The birth** — the eight-file constitution |
 | [`MEMORY-ENGINE.md`](MEMORY-ENGINE.md) | **The rooms** — five-directory layout + two-tier recall (files+grep baseline, optional local hybrid) |
 | [`MEMORY-FILE-SPEC.md`](MEMORY-FILE-SPEC.md) | **The discipline** — naming + frontmatter that makes grep recall work |
